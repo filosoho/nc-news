@@ -4,7 +4,7 @@ Northcoders News API is a backend service built to provide data programmatically
 
 ## Hosted Version
 
-Access the hosted version of the NC-News API at: [NC-NEWS](https://nc-news-api-backend.onrender.com/api)
+Access the hosted version of the NC-News API at: [NC-NEWS](https://nc-news-ivory.vercel.app/api)
 
 [Go to Documentation](#api-documentation)
 
@@ -76,7 +76,7 @@ npm test
 
 ## API Documentation
 
-Explore the full API documentation [here](https://nc-news-api-backend.onrender.com/api) for detailed information on available endpoints, request methods, and examples.
+Explore the full API documentation [here](https://nc-news-ivory.vercel.app/api) for detailed information on available endpoints, request methods, and examples.
 
 Recommended extension to view JSON files [JSON Viewer Pro](https://chromewebstore.google.com/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc)
 
